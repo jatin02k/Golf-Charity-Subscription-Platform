@@ -6,7 +6,7 @@ charity fundraising, and a monthly draw-based reward engine.
 Built for Digital Heroes Full Stack Trainee Selection · March 2026
 
 ## Live Demo
-🌐 [https://golf-give.vercel.app](https://golf-give.vercel.app)
+🌐 [https://golf-charity-subscription-platform-pi.vercel.app](https://golf-charity-subscription-platform-pi.vercel.app)
 
 ## Test Credentials
 
